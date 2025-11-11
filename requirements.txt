@@ -1,0 +1,7 @@
+python-dotenv
+pypdf
+sentence-transformers
+pinecone-client==5.0.1
+openai>=1.51.0
+fastapi
+uvicorn[standard]
